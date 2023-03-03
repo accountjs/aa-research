@@ -1,4 +1,4 @@
-# Safe {Core} 研究_[3,3,23]
+# Safe {Core} 研究笔记_[3,3,23]
 
 ## Safe Blogs Research
 1. Account Abstraction is NOT coming，It’s already here with Safe
