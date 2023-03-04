@@ -44,7 +44,7 @@ to help new and existing users understand Account Abstraction
 for protocols and developers
 
 ### 3. Safe {Core} SDK rea
-Safe 发布基于 Strip 和 Gelato 的 Core SDK
+Safe 发布 {Core} SDK
 
 Safe Document:
 
@@ -139,7 +139,9 @@ https://mp.weixin.qq.com/s/kEEaB9-iRbJ57sRLq1Uzyw
 
 ## ETH Hackathon
 
+### 1. Safe “March for Account Abstraction” Hackathon
 
+https://dorahacks.io/hackathon/safe/
 
 ### 
 
