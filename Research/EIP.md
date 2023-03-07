@@ -69,7 +69,13 @@ function revokeOperator(
 ### 模块化
 
 安全模块，恢复模块
-还没有头绪
+Safe modules:
+https://github.com/safe-global/safe-contracts/blob/main/contracts/base/ModuleManager.sol
+
+Diamond faucet: 
+https://eips.ethereum.org/EIPS/eip-2535
 
 ## 去掉EOA
+
+可以简单使用一个zk证明提交来去掉EOA，避免EOA生成是使用签名
 
