@@ -10,7 +10,7 @@ contract SimpleAccount {
 https://github.com/accountjs/account-abstraction/blob/develop/contracts/samples/SimpleAccount.sol
 
 ## Soulwallet
-> owner is set when initialize
+> owner is set when initialize,although AccessControl is used,but not implement yet
 
 https://github.com/accountjs/soul-wallet-contract/blob/main/contracts/SoulWallet.sol
 
@@ -72,7 +72,7 @@ function revokeOperator(
 Safe modules:
 https://github.com/safe-global/safe-contracts/blob/main/contracts/base/ModuleManager.sol
 
-Diamond faucet: 
+Diamond facet: 
 https://eips.ethereum.org/EIPS/eip-2535
 
 ## 去掉EOA
