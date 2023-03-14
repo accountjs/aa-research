@@ -70,6 +70,7 @@ Skyhigh 产品，全栈开发，AA生态布道者，全职(120h)，目前负责�
 Amagi 前端，全栈开发，技术负责，全职(120h)，研究SDK的技术实现，客户端设计，场景实现
 
 Andrew 研究员，zk共学发起人，兼职(40h)，研究AA场景化实现，zk与AA的结合
+
 我们都是中国开发社区的一员，支持DAO包括：Rebase, Plancker, LXDAO, SeeDAO，706青年空间
 
 Skyhigh product and full-stack developer, AA ecosystem evangelist, full-time (120h), currently responsible for researching infrastructure, scenario research, AA Weekly report, SDK design, development and testing.
@@ -102,9 +103,11 @@ Any links for us to review? E.g. research papers, blog posts, etc.
 
 
 We were the first to help SoulWallet develop a mobile app in ETHBogota. 
+
 We have shared and preached the EIP4337 technology and scenarios several times in the Rebase community. 
 
 We worked with the Plancker community to study Bundler and co-learn EIP4337. 
+
 We created a public SDK and tools for EIP4337, helping developers to integrate.
 - https://accountjs.xyz/
 - https://github.com/accountjs
