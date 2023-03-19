@@ -1,8 +1,6 @@
 # Account-Abstraction Weekly - W4_Mar19
 
-## Infra
-
-基础设施
+## Infrastructure
 
 ---
 
@@ -39,7 +37,6 @@ Candide在实现AA钱包社交恢复的方法
 https://docs.candidewallet.com/blog/making-accounts-recoverable/
 
 ## Dapp
-应用
 
 （No new dapp） Plz contact：skyhighfeng@gmail.com 
 
@@ -49,7 +46,6 @@ Dune上的ERC-4337面板
 https://twitter.com/0xKofi/status/1636392810113900545
 
 ## Research
-研究
 
 ### 1. A resarcher Broke erc4337 infra that manipulating userOp calldata can make inconsistent userOpHash
 一个审计研究员通过操纵userOp的calldata字段来实现生成相同userOpHash
