@@ -64,9 +64,13 @@ function revokeOperator(
 
 ### 跨链
 
+Cross chain
+
 目前来看同一个EOA开始一起同时创建时候才会创建到同一个AA钱包地址，如果不同EOA创建则每条公链不同，考虑在factory里面使用相同参数，然后再通过外部EOA激活方式
 
 ### 模块化
+
+Modules
 
 安全模块，恢复模块
 Safe modules:
@@ -76,6 +80,8 @@ Diamond facet:
 https://eips.ethereum.org/EIPS/eip-2535
 
 ## 去掉EOA
+
+EOA Dismiss
 
 可以简单使用一个zk证明提交来去掉EOA，避免EOA生成是使用签名
 
