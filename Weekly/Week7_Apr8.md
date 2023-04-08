@@ -111,9 +111,9 @@ https://twitter.com/doganeth_en/status/1642300603849224195
 https://www.chaincatcher.com/article/2090663
 
 
-### Hackathon & Events
+## Hackathon & Events
 
-1. Unlocking Account Abstraction - Smart accounts for the next billion users
+### 1. Unlocking Account Abstraction - Smart accounts for the next billion users
 
 Dror Tirosh from @erc4337 Core Team is hosting an "Unlocking Account Abstraction - Smart accounts for the next billion users" workshop on ERC-4337 and the ERC-4337-enabled browser extension wallet Trampoline 🧠
 
@@ -124,13 +124,13 @@ Dror Tirosh from @erc4337 Core Team is hosting an "Unlocking Account Abstraction
 
 https://twitter.com/EF_ESP/status/1643284317001621506
 
-2. Ethereum Foundation @ethereum is putting up $20,000 worth of prizes for @erc4337 and @PrivacyScaling 🎊
+### 2. Ethereum Foundation @ethereum is putting up $20,000 worth of prizes for @erc4337 and @PrivacyScaling 🎊
 
 ETHGlobal 东京 $20000 的AA专项奖
 
 https://twitter.com/EF_ESP/status/1643284311716802560
 
-3. Introducing the Pioneers of AA
+### 3. Introducing the Pioneers of AA
 
 10 path-breaking projects that will be at the forefront of driving the adoption for Account Abstraction
 
