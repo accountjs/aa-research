@@ -17,7 +17,7 @@ abstract contract BaseAccount is IAccount {
 }
 ```
 
-1. AA Wallet cannot be logged in from multiple locations simultaneously.
+## 1. AA Wallet cannot be logged in from multiple locations simultaneously.
 
 AA Wallet has only one owner, if used in other places and come back will overwrite the owner. We have to use recovery twice.
 
@@ -60,7 +60,7 @@ https://github.com/accountjs/soul-wallet-contract/blob/main/contracts/SoulWallet
 
 https://github.com/accountjs/stackup/blob/main/apps/contracts/contracts/wallet/Wallet.sol
 
-2. AA Wallet Interoperability between projects
+## 2. AA Wallet Interoperability between projects
 
 Soulwallet and Stackup cannot import others wallet
 
@@ -71,13 +71,13 @@ The most important is to define recovery module. Every project can follow the re
 And the assets in the wallet can be reused in every projects, like game asset or social relations.
 
 
-3. Cross chain
+## 3. Cross chain
 
 AA address can be deferent in different chain, but we can deploy wallet in same factory, same salt, same paremeters (don't pass owner). We will add owner to the wallet after the contract wallet activate.
 
 TODO: test same contract and activate
 
-4. Modules
+## 4. Modules
 
 plug in security modules, recovery modules...
 
@@ -89,12 +89,14 @@ Diamond facet:
 
 https://eips.ethereum.org/EIPS/eip-2535
 
-5. Remove EOA.
+## 5. Remove EOA.
 
 EOA owner have too much power, we can use zk or 2FA to remove EOA sigs.
 
 TODO: research authentication methods
 
-6. AA NFT/SBT Standard
+## 6. AA NFT/SBT Standard
 
-AA's NFT or SBT can be set from the account factory, can be used in marketing
+AA's NFT or SBT can be set from the account factory, can be used in marketing, or AANS.
+
+AA NFT market can be redefined
