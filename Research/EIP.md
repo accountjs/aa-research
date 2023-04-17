@@ -1,25 +1,4 @@
-# Problem: 
-
-## Infinitism 
-```
-contract SimpleAccount {
-    address public owner;
-    ...
-}
-```
-https://github.com/accountjs/account-abstraction/blob/develop/contracts/samples/SimpleAccount.sol
-
-## Soulwallet
-> owner is set when initialize,although AccessControl is used,but not implement yet
-
-https://github.com/accountjs/soul-wallet-contract/blob/main/contracts/SoulWallet.sol
-
-## Stackup Early
-https://github.com/accountjs/stackup/blob/main/apps/contracts/contracts/wallet/Wallet.sol
-
-目前aa账户的owner只有一个，这样在恢复账户时候，是会把原来owner给覆盖。于是在新设备登录恢复时，会创建新eoa并设置owner，原来设备的eoa就不可以使用了。所以我们提出一个多账户模型来解决多设备登录的问题。
-
-在目前owner的基础上，添加operator字段
+# Problem Research: 
 
 ## BaseAccount
 ```
@@ -36,19 +15,15 @@ abstract contract BaseAccount is IAccount {
     function _validateAndUpdateNonce(UserOperation calldata userOp) internal virtual;
     function _payPrefund(uint256 missingAccountFunds) internal virtual
 }
-
 ```
 
-并没有考虑到恢复或者子账号的问题, 所以大部分钱包都是只有一个owner
+1. AA Wallet cannot be logged in from multiple locations simultaneously.
 
-在实现中，通常有 
-```
-function transferOwner(
-        address newOwner
-    ) external override onlyOwnerOrFromEntryPoint
-```
+AA Wallet has only one owner, if used in other places and come back will overwrite the owner. We have to use recovery twice.
 
-现在是想要对owner进行扩展,进行一个添加操作员
+We want to use a owner management module to define role of users. We can set members and their security method in AA wallet, eg owner and operators.
+
+Initial thought is owner and operator users, such as:
 
 ```
 mapping (address => bool) operators
@@ -62,26 +37,64 @@ function revokeOperator(
     ) external override onlyOwnerOrFromEntryPoint
 ```
 
-### 跨链
+OR we can define role module contracts, TODO
 
-Cross chain
+Ref: 
+>Infinitism 
 
-目前来看同一个EOA开始一起同时创建时候才会创建到同一个AA钱包地址，如果不同EOA创建则每条公链不同，考虑在factory里面使用相同参数，然后再通过外部EOA激活方式
+```
+contract SimpleAccount {
+    address public owner;
+    ...
+}
+```
+https://github.com/accountjs/account-abstraction/blob/develop/contracts/samples/SimpleAccount.sol
 
-### 模块化
+> Soulwallet
 
-Modules
+owner is set when initialize
 
-安全模块，恢复模块
-Safe modules:
+https://github.com/accountjs/soul-wallet-contract/blob/main/contracts/SoulWallet.sol
+
+>Stackup Early
+
+https://github.com/accountjs/stackup/blob/main/apps/contracts/contracts/wallet/Wallet.sol
+
+2. AA Wallet Interoperability between projects
+
+Soulwallet and Stackup cannot import others wallet
+
+User wallets cannot be migrated across different wallet projects.
+
+The most important is to define recovery module. Every project can follow the recovery interfaces.
+
+And the assets in the wallet can be reused in every projects, like game asset or social relations.
+
+
+3. Cross chain
+
+AA address can be deferent in different chain, but we can deploy wallet in same factory, same salt, same paremeters (don't pass owner). We will add owner to the wallet after the contract wallet activate.
+
+TODO: test same contract and activate
+
+4. Modules
+
+plug in security modules, recovery modules...
+
+TODO research Safe modules:
+
 https://github.com/safe-global/safe-contracts/blob/main/contracts/base/ModuleManager.sol
 
 Diamond facet: 
+
 https://eips.ethereum.org/EIPS/eip-2535
 
-## 去掉EOA
+5. Remove EOA.
 
-EOA Dismiss
+EOA owner have too much power, we can use zk or 2FA to remove EOA sigs.
 
-可以简单使用一个zk证明提交来去掉EOA，避免EOA生成是使用签名
+TODO: research authentication methods
 
+6. AA NFT/SBT Standard
+
+AA's NFT or SBT can be set from the account factory, can be used in marketing
