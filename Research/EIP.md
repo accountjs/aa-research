@@ -89,7 +89,7 @@ Diamond facet:
 
 https://eips.ethereum.org/EIPS/eip-2535
 
-Module spec：
+Module spec reference：
 https://github.com/safe-global/safe-contracts/issues/537
 
 ## 5. Remove EOA.
