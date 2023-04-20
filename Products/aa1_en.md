@@ -58,23 +58,23 @@ Now let me give an example of a scenario that was initially conceived.
 
 ## PlayOnboard
 
-最开始是Free2Play的新概念，但我总是觉得free表述不当，没有任何东西是free的，人的时间也是价值，注意力是有限的。所以我提出PlayOnboard的机制，让游戏化进入AA产品。
+At first, Free2Play was a new concept, but I always felt that the term "free" was not appropriate. Nothing is truly free, as people's time and attention are valuable and limited. Therefore, I proposed the PlayOnboard mechanism to incorporate gamification into AA products.
 
-刚才说过AA对Token机制天然是友好的，Token是项目储备价值的机制，是实用性在价值的体现。我这里就举一个Token直接使用在AA的场景。
+As I mentioned earlier, the Token mechanism is naturally friendly to AA. Tokens are a mechanism for storing project value and represent the practical value of a project. Here, I will give an example of using Tokens directly in the AA scenario.
 
-Web2中，用户流量就是虚拟价值，各种互联网公司估值是评判标准用户DAU，产品可通过日活量估算广告价值，用户价值和产品属性，有些甚至为了提高日活甚至有刷量赚钱，类似抖音快速版。AA把用户入门门槛变低，用户无成本进入可使用流量这种新的玩法，就是免去记录私钥步奏，先提供核心场景，促活用户。
+In Web2, user traffic is virtual value, and the valuation of various Internet companies is based on the number of daily active users (DAUs). The value of a product can be estimated based on the number of daily active users and product attributes. Some even earn money by boosting their daily active users, such as the rapid version of Douyin. By lowering the user entry barrier, AA allows users to use their traffic without any cost, which eliminates the need for recording private keys and provides core scenarios to activate users.
 
-这可以很好跟游戏化产品结合。
+This can be well combined with gamified products.
 
-设想是Run2earn的Stepn场景，之前还需要先创建钱包并收取原生代币，但使用AA之后，用户进来直接就可以开始跑了，跑步生息。有人会无成本为了好玩进来，有人只为了使用并激活AA新钱包，代付帮你激活钱包并不会跟之前钱包产生关联。你可以使用任何代币甚至项目方代币支付，就算用户量活跃度很高，批量交易也能为你节省gas费用
+Imagine the Stepn scenario of Run2earn. Previously, users needed to create a wallet and collect native tokens before they could start running and earning. With AA, users can start running immediately without any cost and earn rewards. Some may come in just for fun, while others may activate a new AA wallet to use it, and the activation fee will not be associated with their previous wallet. Users can pay with any token, even project tokens, and batch transactions can save you gas fees even with high user activity.
 
-由于用户的钱包可以提前确定，用户无需激活钱包也能收到资产和代币。如果需要提前激活钱包或者购买资产和加速，可以提前在Uniswap购买资产并激活。
+Since the user's wallet can be determined in advance, the user can receive assets and tokens without having to activate the wallet. If the wallet needs to be activated in advance or assets and acceleration need to be purchased, they can be purchased and activated in advance on Uniswap.
 
-这样，项目上线时代币直接可以就有使用场景了。用户进来，可以氪金立刻激活账户，也可以无成本进来，当钱包有资产（比如跑步15天以上）可以引导激活钱包并上传资料进行恢复，可用时间流量换取价值。新用户会拥有第一个Web3钱包，也能通过钱包去操作更多Web3应用，而项目则收获第一批用户，用户群可以是任何人。
+Thus, when the project goes live, its tokens can be used immediately. Users can activate their accounts by spending cryptocurrency or come in without any cost. Once they have accumulated assets (e.g. by running for more than 15 days), they can be guided to activate their wallets and upload their information to recover their value. New users will have their first Web3 wallet, which can be used to operate more Web3 applications, while the project will gain its first group of users, who can be anyone.
 
-使用AA的合约钱包，能让用户进入Web3门槛降低，可以有更多想象空间，比如链上身份，资产互通，Token也有更多场景进行使用，这个会在下篇文章具体再列举场景使用。
+Using AA's contract wallet can lower the barrier to entry into Web3 and offer more room for imagination, such as on-chain identity, asset interoperability, and more scenarios for using Tokens. These will be listed in more detail in the next article.
 
-PlayOnboard是一种流量转换成价值的场景，在AA的机制里面还有更多模块，可以hack进去生成新的产品形式，第二篇会列举更多场景，如果感兴趣共建可以联系作者。。
+PlayOnboard is a scenario in which traffic is converted into value. There are still more modules within the AA mechanism that can be hacked to generate new forms of products. The second article will list more scenarios, and if you are interested in collaborating, please contact the author.
 
 ```
 Contact:
