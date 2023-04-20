@@ -89,6 +89,9 @@ Diamond facet:
 
 https://eips.ethereum.org/EIPS/eip-2535
 
+Module spec reference：
+https://github.com/safe-global/safe-contracts/issues/537
+
 ## 5. Remove EOA.
 
 EOA owner have too much power, we can use zk or 2FA to remove EOA sigs.
