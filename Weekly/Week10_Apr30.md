@@ -34,7 +34,7 @@ https://twitter.com/AlchemyPlatform/status/1651309099513159682
 
 ### 1. @bookmakerxyz has integrated @etherspot, enabling social logins and abstracting away gas payments
 
-bookmaker 一个接入 AA SDK 的案例
+Bookmaker 一个接入 AA SDK 的案例
 
 https://twitter.com/etherspot/status/1651953933873565698
 
