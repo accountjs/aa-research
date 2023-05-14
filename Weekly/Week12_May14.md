@@ -116,15 +116,19 @@ https://blog.openzeppelin.com/account-abstractions-impact-on-security-and-user-e
 
 https://github.com/eth-infinitism/bundler-spec/blob/main/p2p-specs/p2p-interface.md
 
-### 3. Everything we care about Account Abstraction(AA) — Rui
+### 3. ERC-6900: Modular Smart Contract Accounts and Plugins
+
+https://ethereum-magicians.org/t/erc-6900-modular-smart-contract-accounts-and-plugins/13885/1
+
+### 4. Everything we care about Account Abstraction(AA) — Rui
 
 https://twitter.com/popolandRuii/status/1653121478533971975
 
-### 4. ERC4337 ELI5 (Explain it Like I'm Five)
+### 5. ERC4337 ELI5 (Explain it Like I'm Five)
 
 https://twitter.com/biconomy/status/1657004316505325568
 
-### 5. Antalpha -- Pimlico Workshop & zkSync Era and Starknet case studies
+### 6. Antalpha -- Pimlico Workshop & zkSync Era and Starknet case studies
 
 https://www.youtube.com/watch?v=GQTYRzdbuSY
 
