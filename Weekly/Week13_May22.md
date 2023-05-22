@@ -7,6 +7,42 @@
 
 https://github.com/etherspot/skandha/tree/develop
 
+### 2. signless -- make web3 feel like Web 2.0
+
+https://signless.xyz/
+
+### 3. Particle Network and Biconomy Join Forces to Release Game-Changing MPC+AA Solution for Web3 Wallets -- Biconomy
+
+https://medium.com/particle-network/particle-network-and-biconomy-join-forces-to-release-game-changing-mpc-aa-solution-for-web3-wallets-bd4c22c9259d
+
+@bountyblok users can effortlessly utilize the free distribution tool by logging into it via the Biconomy Smart Contract Wallet
+
+https://twitter.com/LayerEhq/status/1660000066931920896
+
+Decoding EntryPoint and UserOperation with ERC-4337 Part 1
+
+https://www.biconomy.io/post/decoding-entrypoint-and-useroperation-with-erc-4337-part1
+
+### 4. Pimlico's ERC-20 Paymaster — the first fully-audited and permissionless ERC-20 Paymaster in the ecosystem
+
+https://twitter.com/pimlicoHQ/status/1658597090409209859
+
+Github:
+https://github.com/pimlicolabs/erc20-paymaster-contracts
+
+Docs:
+https://docs.pimlico.io/reference/erc20-paymaster-sdk
+
+Pimlico is now live on Scroll:
+
+https://twitter.com/pimlicoHQ/status/1660701270846619649
+
+### 5. Zerodev x Rollup, users can create *burner AA wallets* to use in DApps, and DApps can:
+
+1. Sponsor gas for your users
+2. Automatically execute transactions for your users through session keys
+
+https://twitter.com/zerodev_app/status/1658559888010940416
 
 ---
 
@@ -15,6 +51,23 @@ https://github.com/etherspot/skandha/tree/develop
 ### 1. TBA 🤝 Lens
 
 https://ethglobal.com/showcase/tba-lens-m8ki4
+
+### 2. Account Abstraction Snap for MetaMask
+
+https://www.npmjs.com/package/aa-snap37
+
+### 3. Openfort -- Powerful APIs to manage web3 accounts for your players.
+
+https://twitter.com/openfortxyz/status/1660662615918497792
+
+### 4. Zen.Watch -- IFTTT Infrastructure for Dapps, Protocols, Wallets & Traders
+
+https://zen.watch/
+
+### 5. Privacy-preserving Paymaster
+
+https://ethglobal.com/showcase/privacy-preserving-paymaster-hap9s
+
 
 
 ---
@@ -52,15 +105,26 @@ https://medium.com/edennetwork/erc-4337-exploring-the-technical-components-of-ac
 
 https://twitter.com/MessariCrypto/status/1659204712720379909
 
-### 9. ENS name -> ERC-4337 account
+### 9. ENS name -> ERC-4337 account -- by yoav
 
 https://hackmd.io/A7B6VpG7RaCnphITwsym6Q
 
-### 10. 独家专访 Account Labs：坚定账户建设之路，Keystone 与 UniPass 宣布战略合并
+### 10. Exciting updates on the 4337 account abstraction and smart wallet space from @4337Mafia
+
+https://twitter.com/odysseus0z/status/1658185514879680513
+
+### 11. How much do you really know about the latest dialogue surrounding ERC-4337 and AA?
+
+https://twitter.com/BloctoDevs/status/1658106406954778625
+
+### 12. Account Abstraction will forever change the Blockchain industry. -- Defi Saint
+
+https://twitter.com/TheDeFISaint/status/1658421326409867264
+### 13. 独家专访 Account Labs：坚定账户建设之路，Keystone 与 UniPass 宣布战略合并
 
 https://www.techflowpost.com/article/detail_11943.html
 
-### 11. Web3钱包的未来：创新、挑战和关键问题
+### 14. Web3钱包的未来：创新、挑战和关键问题
 
 https://news.marsbit.cc/20230519110018419522.html
 
@@ -72,7 +136,15 @@ https://news.marsbit.cc/20230519110018419522.html
 
 https://twitter.com/CastleLinkHQ/status/1658286068926488576
 
-### 2. Events
+### 2. ERC-4337 Account Abstraction Community Event at Edcon 2023 - Presented by Candide, Soul, Etherspot, Valha and ForumDaos
+
+https://lu.ma/4337-edcon
+
+### 3. ER-See you 4337 Series
+
+https://www.crowdcast.io/c/er-see-you-4337-series
+
+### 4. Events
 
 May 19th -> May 24th Antalpha Hacker House
 
