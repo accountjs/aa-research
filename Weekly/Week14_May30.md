@@ -96,11 +96,15 @@ Github:
 
 https://github.com/Rahat-ch/biconomy_nft_onboarding_demo
 
-### 10.
+### 10. Biconomy ecosystem
 @itsobvioustech for smart wallets
+
 @CapxFi have done Gasless via AA
+
 @dBloksPR have web2 like social login + Gasless via AA
+
 @XadeFinance DeFi Neo-bank powered by AA
+
 @bountyblok leveraging AA to smartly distribute NFTs to masses in a few clicks
 @DexWin_Sports AA powered sports betting
 
