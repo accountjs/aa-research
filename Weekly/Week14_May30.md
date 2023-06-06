@@ -86,7 +86,7 @@ https://twitter.com/zenwatchweb3/status/1662078988339277825
 
 Overview:
 
-https://twitter.com/zenwatchweb3/status/1651855185889873920
+https://github.com/Zen-Watch/zen-watch-backend
 
 ### 9. No wallet and no gas needed for this free NFT Mint
 
@@ -106,6 +106,7 @@ https://github.com/Rahat-ch/biconomy_nft_onboarding_demo
 @XadeFinance DeFi Neo-bank powered by AA
 
 @bountyblok leveraging AA to smartly distribute NFTs to masses in a few clicks
+
 @DexWin_Sports AA powered sports betting
 
 
