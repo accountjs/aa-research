@@ -35,5 +35,6 @@ GitHub: https://github.com/accountjs/aa-research
 ```
 
 If missed plz contact skyhighfeng@gmail.com
+If want to donate plz send to skyhighfeng.eth
 
 Join our group to post news: https://t.me/+Hpm2SIXGpz5hNWY1
