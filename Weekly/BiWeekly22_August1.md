@@ -13,6 +13,8 @@ https://gnosispay.com/
 
 Allow EOAs to send a one-time transaction which deploys code at their account.
 
+https://twitter.com/lightclients/status/1684236328194707456?t=4OybqgUzBKIiVK1k43SncA&s=19
+
 https://eips.ethereum.org/EIPS/eip-7377
 
 ### 3. AIP-2 improves support for Account Abstraction, making development around Smart Contract Wallets easier than ever.
@@ -134,23 +136,20 @@ zkPaymaster: a paymaster utilising Sismo zero knowledge proofs to conditionally 
 
 https://twitter.com/erc4337/status/1683459744634216448
 
-### 4. EIP-7377: Migration Transaction
+### 4. Reducing Intents’ dependency on LLMs for generating Transaction Object
 
-https://twitter.com/lightclients/status/1684236328194707456?t=4OybqgUzBKIiVK1k43SncA&s=19
+https://ethresear.ch/t/reducing-intents-dependency-on-llms-for-generating-transaction-object/16182
 
-https://eips.ethereum.org/EIPS/eip-7377
-
-ERC-7405: Portable Smart Contract Accounts discussion?
+### 5. ERC-7405: Portable Smart Contract Accounts discussion - Draft?
 
 https://ethereum-magicians.org/t/erc-7405-portable-smart-contract-accounts/15236
 
 https://github.com/ethereum/EIPs/blob/cde7386445d6a692c137bc1a0567973b6ade4f37/EIPS/eip-7405.md
-
-### 5. Supercharging Account Abstraction with Attestations
+### 6. Supercharging Account Abstraction with Attestations
 
 https://mirror.xyz/0xeee68aECeB4A9e9f328a46c39F50d83fA0239cDF/afmS07VvelERZHzG6SSzhOKJlNwhU3jsE-4atkbNZto
 
-### 6. @CyberConnectHQ bring massive adoption with 15K new users and 32K UserOps within one day
+### 7. @CyberConnectHQ bring massive adoption with 15K new users and 32K UserOps within one day
 
 https://twitter.com/SixdegreeLab/status/1684381309140078592
 
@@ -163,24 +162,24 @@ a two-month journey of bi-weekly mini-treks to help you experience web3 through 
 
 https://link3.to/cyberconnect/post/2e0c673ccbc2e07af0f17ebbf54fe5db23322626fc5e2ef1ea6ab4d91c61ba1d
 
-### 7. a16z-backed Eco unveils Beam, a P2P crypto transfer service aiming to be a ‘global Venmo’
+### 8. a16z-backed Eco unveils Beam, a P2P crypto transfer service aiming to be a ‘global Venmo’
 
 https://techcrunch.com/2023/07/27/a16z-eco-beam-p2p-crypto-transfer-service-global-venmo/?guccounter=1
 
-### 8. How smart wallets, MPC, auth, etc., work together to enhance dapp UX
+### 9. How smart wallets, MPC, auth, etc., work together to enhance dapp UX
 
 https://twitter.com/0xpass_io/status/1683577460028506112
 
 
-### 9. What is Account Abstraction and it’s use-cases?
+### 10. What is Account Abstraction and it’s use-cases?
 
 https://blocktheory.com/blog/account-abstraction/
 
-### 10. Technical Dive: Combining Token Bound Account (TBA) with Account Abstraction (AA)
+### 11. Technical Dive: Combining Token Bound Account (TBA) with Account Abstraction (AA)
 
 https://www.openfort.xyz/blog/technical-dive-combining-token-bound-account-tba-with-account-abstraction-aa
 
-### 11. Future of Smart Accounts: Modular, Specialised & Multichain
+### 12. Future of Smart Accounts: Modular, Specialised & Multichain
 
 https://longhashvc.medium.com/future-of-smart-accounts-modular-specialised-multichain-d04f083375a6
 
