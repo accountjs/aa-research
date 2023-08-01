@@ -172,7 +172,6 @@ https://techcrunch.com/2023/07/27/a16z-eco-beam-p2p-crypto-transfer-service-glob
 
 https://twitter.com/0xpass_io/status/1683577460028506112
 
-
 ### 10. What is Account Abstraction and it’s use-cases?
 
 https://blocktheory.com/blog/account-abstraction/
