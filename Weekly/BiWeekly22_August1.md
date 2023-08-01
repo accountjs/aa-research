@@ -90,9 +90,11 @@ https://ethglobal.com/showcase/bob-the-solver-yxtgp
 
 ### 0. AA Accounts & UserOps has 10x increase.
 
-![statistic](./stat_july.png)
-
 https://dune.com/niftytable/account-abstraction
+
+https://dune.com/sixdegree/account-abstraction-overview
+
+![statistic](./stat_july.png)
 
 ### 1. Vitalik Buterin - a history of account abstraction
 
@@ -220,7 +222,7 @@ Let's co-living and co-building mass adoption DAPP & UX together!
 
 招募开发者和赞助商，开发成员已经招募80%，包含AA+RWA, AA+游戏, AA+AIGC, AA模块化基础设施等优秀项目，请联系微信: skyhigh22
 
-Calling for AA developers and sponsers, already 80% full members.
+Calling for AA developers and sponsors, already 80% full members.
 
 Contact Wechat: skyhigh22
 
