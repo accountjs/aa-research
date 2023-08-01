@@ -1,4 +1,4 @@
-# Account Abstraction Tech BiWeekly 18 - July4
+# Account Abstraction Tech BiWeekly 20 - July 18
 
 
 ## Infrastructure
