@@ -88,7 +88,9 @@ https://ethglobal.com/showcase/bob-the-solver-yxtgp
 
 ### 0. AA Accounts & UserOps has 10x increase.
 
-[statistic](./stat_july.png)
+![statistic](./stat_july.png)
+
+https://dune.com/niftytable/account-abstraction
 
 ### 1. Vitalik Buterin - a history of account abstraction
 
