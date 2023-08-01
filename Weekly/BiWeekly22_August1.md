@@ -183,6 +183,11 @@ https://www.openfort.xyz/blog/technical-dive-combining-token-bound-account-tba-w
 
 https://longhashvc.medium.com/future-of-smart-accounts-modular-specialised-multichain-d04f083375a6
 
+### 13. Paradigm“意图交易”新赛道的DappOS
+
+https://mp.weixin.qq.com/s/RYk_CQdviJ-ajvDvhwT6uA
+
+
 ---
 ## Hackathon & Events
 
