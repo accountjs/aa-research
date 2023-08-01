@@ -198,12 +198,20 @@ https://medium.portto.com/key-takeaways-from-aavolution-the-first-serious-accoun
 
 ### 3. AA + AI Hacker House in ShenZhen
 
+706深圳 Hackerhouse | 在海边来一场AA钱包+AI技术的碰撞吧
+
 https://mp.weixin.qq.com/s/PiWBYLg9hnPWSw4BBVn_zg
 
+由AntAlpha发起，706深圳 x AA中文社区承办，一起来共居共建大规模应用的Web3应用和优质的UX。
+
 Hosted by AntAlpha Labs and 706 Shenzhen x AAChina Community.
+
 Let's co-living and co-building mass adoption DAPP & UX together!
 
+招募开发者和赞助商，开发成员已经招募80%，包含AA+RWA, AA+游戏, AA+AIGC, AA模块化基础设施等优秀项目，请联系微信: skyhigh22
+
 Calling for AA developers and sponsers, already 80% full members.
+
 Contact Wechat: skyhigh22
 
 
