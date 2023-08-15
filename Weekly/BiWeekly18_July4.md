@@ -98,10 +98,6 @@ Password recovery for Account Abstraction Wallet
 
 https://ethresear.ch/t/password-recovery-for-account-abstraction-wallet/15923
 
-Proposing Stateless light client as the foundation for Stateless Account Abstraction
-
-https://ethresear.ch/t/proposing-stateless-light-client-as-the-foundation-for-stateless-account-abstraction/15901
-
 
 New Paradigm Wallets and Tokens
 
