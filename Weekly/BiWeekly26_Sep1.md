@@ -51,6 +51,9 @@ https://github.com/maxrobot/elliptic-solidity/blob/master/contracts/Secp256r1.so
 ---
 ## Research
 
+### 0. Decoding Intents: Revolutionizing Web3 User Experience and Orderflow in Blockchain
+
+https://mirror.xyz/sevenxventures.eth/fknoBf3zOoBf55zNFBpMQAIat6iCT9tvrN2AY1j4Sv4
 ### 1. EIPs
 
 Add EIP: Registry Adapters for Smart Accounts #7484
@@ -77,6 +80,7 @@ https://twitter.com/dynamic_xyz/status/1694756535661215933
 
 https://medium.com/banana-sdk/intent-is-all-you-need-part-1-1c5c11ee3b6f
 
+
 ### 5. Getting Wallets Ready for the Next One Billion Users: Account Abstraction
 
 https://blog.getclave.io/p/ultimate-account-abstraction-guide
@@ -100,6 +104,8 @@ https://mirror.xyz/0x8958D0c419BCDFB8A86b8c0089552bE015fbe364/IzmGOJM8y_02JofILk
 ### 10. xRaise: Raising The Standards of Web3 Gaming UX
 
 https://raisefinance.medium.com/xraise-raising-the-standards-of-web3-gaming-ux-eec8b15514d2
+
+
 
 ---
 ## Hackathon & Events
