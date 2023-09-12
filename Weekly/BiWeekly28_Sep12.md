@@ -1,4 +1,4 @@
-# Account Abstraction Tech BiWeekly 26.5 - September 1st
+# Account Abstraction Tech BiWeekly 28 - Sep 12.
 
 
 ## Infrastructure
