@@ -161,11 +161,11 @@ demo:
 
 https://twitter.com/variantfund/status/1704517117876322696
 
-### What's in an Account
+### 2. What's in an Account
 
 https://erc4337.mirror.xyz/vYwclVbG6CR1o8DOCWDj8cFVfFSJ07FhWTDgQ5NQROY
 
-### Analyzing the Development of ERC4337
+### 3. Analyzing the Development of ERC4337
 
 https://sixdegree.xyz/research/Half-Year-Data-Report-of-ERC4337-by-Sixdegree.pdf
 
@@ -173,7 +173,7 @@ https://sixdegree.xyz/research/Half-Year-Data-Report-of-ERC4337-by-Sixdegree.pdf
 
 https://mp.weixin.qq.com/s/YcosTL2AE5APyqRi2bameA
 
-### Current State of Verifying P256 Curve
+### 4. Current State of Verifying P256 Curve
 
 https://hackmd.io/@1ofB8klpQky-YoR5pmPXFQ/SJ0nuzD1T
 
@@ -181,18 +181,18 @@ ZK webautN
 
 https://mirror.xyz/0x8958D0c419BCDFB8A86b8c0089552bE015fbe364/IzmGOJM8y_02JofILk7n4yAbCnVx4D7Zt3TAxKl04_U
 
-### A decentralised solver architecture for executing intents on EVM blockchain
+### 5. A decentralised solver architecture for executing intents on EVM blockchain
 
 https://ethresear.ch/t/a-decentralised-solver-architecture-for-executing-intents-on-evm-blockchain/16608?u=rishotics
 
 
-###  Introducing ERC-7739: Generalized Intents for Smart Contract Wallets
+###  6. Introducing ERC-7739: Generalized Intents for Smart Contract Wallets
 
 https://twitter.com/intentessential/status/1704173138228171044
 
 https://blog.essential.builders/introducing-erc-7521-generalized-intents/
 
-### EIP-7522: OIDC ZK Verifier for AA Account
+### 7. EIP-7522: OIDC ZK Verifier for AA Account
 
 https://github.com/ethereum/EIPs/blob/master/EIPS/eip-7522.md
 
@@ -204,7 +204,7 @@ ERC-6981: Reserved Ownership Accounts
 
 https://eips.ethereum.org/EIPS/eip-6981
 
-### How Biconomy Paymaster Works - Sponsor gas or pay in any token
+### 8. How Biconomy Paymaster Works - Sponsor gas or pay in any token
 
 https://www.biconomy.io/post/how-biconomy-paymaster-works-sponsor-gas-or-pay-in-any-token
 
@@ -214,25 +214,25 @@ https://www.biconomy.io/post/smart-account-modularity-is-evolving-wallet-layer-i
 
 
 
-### All you need to know about Intents
+### 9. All you need to know about Intents
 
 https://twitter.com/FetcchX/status/1704867735413665797?s=20
 
 https://writings.fetcch.xyz/all-you-need-to-know-about-intents
 
-### Smart Accounts Take Off in Q3 (ERC-4337 Statistics)
+### 10. Smart Accounts Take Off in Q3 (ERC-4337 Statistics)
 
 https://alchemy.com/blog/erc-4337-statistics-q3-2023
 
-### Smart Account Security: Auditing Account Abstraction
+### 11. Smart Account Security: Auditing Account Abstraction
 
 https://medium.com/code4rena/smart-account-security-69b544c0da86
 
-### Top 6 Account Abstraction Providers: An In-Depth Review
+### 12. Top 6 Account Abstraction Providers: An In-Depth Review
 
 https://medium.com/coinmonks/top-6-account-abstraction-providers-an-in-depth-review-3a09b9fc707c
 
-### How to Use Custom Webhooks for Mined User Operations? - Alchemy
+### 13. How to Use Custom Webhooks for Mined User Operations? - Alchemy
 
 https://docs.alchemy.com/docs/how-to-use-custom-webhooks-to-get-push-notifications-for-mined-user-operations
 
@@ -240,15 +240,19 @@ ERC-4337 Gas Estimation on L2s
 
 https://twitter.com/ProbablyNoam/status/1706700212100882471
 
-### Stealth Address in Account Abstraction
+### 14. Social Recovery 101
+
+https://www.soulwallet.io/blog/social-recovery-101
+
+### 15. Stealth Address in Account Abstraction
 
 https://ethresear.ch/t/stealth-address-in-account-abstraction/16774
 
-### Transition from EOA to AA
+### 16. Transition from EOA to AA
 
 https://twitter.com/partitura_io/status/1701914886643802181
 
-### Speeding up elliptic computations for Ethereum Account Abstraction
+### 17. Speeding up elliptic computations for Ethereum Account Abstraction
 
 https://eprint.iacr.org/2023/939.pdf
 
@@ -256,11 +260,11 @@ implementations
 
 https://github.com/rdubois-crypto/FreshCryptoLib/tree/master/solidity/src
 
-### An Introduction to Account Abstraction vs Solana
+### 18. An Introduction to Account Abstraction vs Solana
 
 https://squads.so/blog/what-is-account-abstraction-ethereum-vs-solana
 
-### Ideas on Account Abstraction on Aztec 
+### 19. Ideas on Account Abstraction on Aztec 
 
 https://discourse.aztec.network/t/ideas-on-account-abstraction/339
 
@@ -268,7 +272,7 @@ and Fuel
 
 https://fuel-labs.ghost.io/account-abstraction-for-everyone-else/
 
-### OKX Ventures：系统解析账户抽象赛道的过去、现在和未来
+### 20. OKX Ventures：系统解析账户抽象赛道的过去、现在和未来
 
 https://foresightnews.pro/article/detail/43712
 
