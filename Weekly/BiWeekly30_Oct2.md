@@ -157,9 +157,6 @@ https://vitalik.eth.limo/general/2023/09/30/enshrinement.html
 
 https://blog.getclave.io/p/ultimate-account-abstraction-guide
 
-demo:
-
-https://twitter.com/variantfund/status/1704517117876322696
 
 ### 2. What's in an Account
 
