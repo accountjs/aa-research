@@ -1,4 +1,4 @@
-# Account Abstraction Tech BiWeekly 36 - Nov 15
+# Account Abstraction Tech BiWeekly 36 - Nov 14
 
 
 ## Infrastructure
@@ -34,6 +34,10 @@ https://twitter.com/biconomy/status/1722684472532095457
 @AstarNetwork -- Japan's leading blockchain
 
 https://twitter.com/biconomy/status/1721567801041940670
+
+### 5. LightAccount -- Alchemy
+
+https://twitter.com/AlchemyPlatform/status/1724091578627870884
 
 ---
 
@@ -73,9 +77,13 @@ https://github.com/moonchute/stealth-address-aa-plugin/blob/main/src/zerodev/Ste
 
 https://rooch.network/zh-CN/docs/dive-into-rooch/account-abstraction
 
-### 8. 500K UserOps on FanTV
+### 8. 500K UserOps on FanTV (Consumer Apps)
 
 https://twitter.com/FanTV_official/status/1722269312004784362
+
+### 9. Setter: The Ultimate Drops App (Consumer Apps)
+
+https://apps.apple.com/us/app/setter-the-ultimate-drops-app/id6463495944
 
 ---
 ## Research
@@ -112,9 +120,25 @@ https://twitter.com/etherspot/status/1722644191837123029
 
 https://twitter.com/erc6900/status/1723086879765975230
 
+Video:
+
+https://alchemy.zoom.us/rec/play/dMm1g_IkDxmEt3SQ0j2euqpWSfA__42y8zl4_GlQdOX-HNdjvl1uoSiqDhM9bOuwEShwYRxxg17IEelQ.ue4rZXEICHlG89HG
+
+Summary:
+
+https://docs.google.com/document/d/1EUsWw43hvQsqKH25s_HMA8BxzcVyySUadLO_JwwXd6M/edit
+
 ### 7. Summoning a Decentralised Safe Registrys
 
 https://mirror.xyz/0013700.eth/HAxUoydAAvcEnygRvGsqecAhC1XcfcQlAy6x_htY3ZQ
+
+### 8. Getting started guide on passkeys
+
+https://warpcast.com/itai/0xaf6466e3
+
+### 9. Zk-Webauthn
+
+https://docs.google.com/presentation/d/1bknsMvM0YP0grDVVitKZmi6KjApXvdnrg5Qrj3kyGKQ/edit#slide=id.g29a2a87fe40_0_13
 
 ---
 ## Hackathon & Events
@@ -142,6 +166,14 @@ https://twitter.com/argentHQ/status/1723021821002305690
 ### 6. Modular Structures WTF: The App Store Moment for Account Abstraction
 
 https://twitter.com/i/spaces/1YqxoDqYEaBKv
+
+### 7. Death by Thousand Accounts
+
+https://cfp.walletuncon.org/walletuncon-2023/talk/K8K7GU/
+
+### 8. Scroll x Devconnect Istanbul 活动一览
+
+https://mp.weixin.qq.com/s/B_UL4xkZJcCtNFE3FkL6Aw
 
 ```
 Contact:
