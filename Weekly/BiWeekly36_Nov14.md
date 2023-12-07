@@ -1,5 +1,6 @@
 # Account Abstraction Tech BiWeekly 36 - Nov 14
 
+KeyWords: zkWaaS / CubeSigner / Pimlico $4.2m / BundleBear Mobile / JoyID Passkeys/ **Consumer Apps** / EIPs 7555&7556 / ERC-6900 community call / Zk-Webauthn / Devconnect Istanbul
 
 ## Infrastructure
 
