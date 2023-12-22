@@ -8,6 +8,10 @@ KeyWords:
 
 https://x.com/safe/status/1732037206343290981?s=20
 
+Introducing Safe{RecoveryHub}
+
+https://twitter.com/safe/status/1732716775283015910
+
 ### 2. Biconomy and @rhinestonewtf are teaming up to launch the Module Store
 
 https://twitter.com/biconomy/status/1724694292822945981?s=46
